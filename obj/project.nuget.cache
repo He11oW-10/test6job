@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aYJvcQpWuB5YTtdiX+WmBINpbrtHiraeMBOcH2RCzWTusGYH8M8Zv1HyZIRGHeearpe+7ad/itWF3VtsDZVe4g==",
+  "success": true,
+  "projectFilePath": "/home/yili/netwebjob/test6job/test6job.csproj",
+  "expectedPackageFiles": [
+    "/home/yili/.nuget/packages/microsoft.netcore.app.runtime.win-x64/6.0.14/microsoft.netcore.app.runtime.win-x64.6.0.14.nupkg.sha512",
+    "/home/yili/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/6.0.14/microsoft.aspnetcore.app.runtime.win-x64.6.0.14.nupkg.sha512",
+    "/home/yili/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.14/microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

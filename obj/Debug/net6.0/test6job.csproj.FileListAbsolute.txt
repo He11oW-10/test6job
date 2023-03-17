@@ -1,0 +1,15 @@
+/home/yili/netwebjob/test6job/bin/Debug/net6.0/test6job
+/home/yili/netwebjob/test6job/bin/Debug/net6.0/test6job.deps.json
+/home/yili/netwebjob/test6job/bin/Debug/net6.0/test6job.runtimeconfig.json
+/home/yili/netwebjob/test6job/bin/Debug/net6.0/test6job.dll
+/home/yili/netwebjob/test6job/bin/Debug/net6.0/test6job.pdb
+/home/yili/netwebjob/test6job/obj/Debug/net6.0/test6job.csproj.AssemblyReference.cache
+/home/yili/netwebjob/test6job/obj/Debug/net6.0/test6job.GeneratedMSBuildEditorConfig.editorconfig
+/home/yili/netwebjob/test6job/obj/Debug/net6.0/test6job.AssemblyInfoInputs.cache
+/home/yili/netwebjob/test6job/obj/Debug/net6.0/test6job.AssemblyInfo.cs
+/home/yili/netwebjob/test6job/obj/Debug/net6.0/test6job.csproj.CoreCompileInputs.cache
+/home/yili/netwebjob/test6job/obj/Debug/net6.0/test6job.dll
+/home/yili/netwebjob/test6job/obj/Debug/net6.0/refint/test6job.dll
+/home/yili/netwebjob/test6job/obj/Debug/net6.0/test6job.pdb
+/home/yili/netwebjob/test6job/obj/Debug/net6.0/test6job.genruntimeconfig.cache
+/home/yili/netwebjob/test6job/obj/Debug/net6.0/ref/test6job.dll
